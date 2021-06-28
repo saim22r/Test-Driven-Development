@@ -9,7 +9,7 @@ class Calctest(unittest.TestCase):
 
     calc = SimpleCalc()
 
-# assetions to write out test cases
+# assertions to write out test cases
 # we will use our basic calc example to write the tests first then the code
 
     def test_add(self):
